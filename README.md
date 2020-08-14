@@ -37,10 +37,6 @@
   <summary> :zap: Github Stats</summary>
    <img align="left" alt="Tebaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tebaks&show_icons=true&hide_border=true&theme=radical&count_private=true&hide=prs,issues" />
 </details>
-<details>
-<summary> :zap: Most Used Languages </summary>
- <img align="left" alt="Tebaks's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tebaks" />
- </details>
 
 
 
