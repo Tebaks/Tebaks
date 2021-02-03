@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning Golang 
 - 👯 I’m looking for a internship
 - 🥅 2020 Goals: I want to learn Spanish
-- ⚡ Fun fact: I love play guitar and board games
+- ⚡ Fun fact: I love playing guitar and board games
 
 ### Connect with me:
+
 
 [<img align="left" alt="CompilerKenan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kenanabbak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
