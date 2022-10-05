@@ -2,11 +2,6 @@
 
 ## I'm a Engineer, Learner and Developer!
 
-- 🔭 I’m currently working on projects to put my resume!
-- 🌱 I’m currently learning .Net Core
-- 👯 I’m working at Armut.com as a software engineer
-- 🥅 2021 Goals: I want to learn Spanish
-- ⚡ Fun fact: I love playing chess and board games
 
 ### Connect with me:
 
